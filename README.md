@@ -1,68 +1,95 @@
-<h2 align="left">Hi there! <br>I'm Sumanth C S (he/him)<br><br> MSc Data Science student passionate about leveraging data to solve real-world challenges and uncover impactful insights.<br><br>Currently focusing on:<br><br>Advancing my skills in Deep Learning <br>Mastering Natural Language Processing (NLP) <br><br> What I've achieved so far:<br><br>Built a solid foundation in Machine Learning , including predictive modeling and statistical analysis.<br> Looking ahead:<br>I aim to develop innovative AI-driven solutions and collaborate on projects that create meaningful change.</h2>
+<h1 align="center">Hi, I'm Sumanth C S</h1>
+<h3 align="center">Aspiring Machine Learning & Deep Learning Engineer | MSc Data Science</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Data+Science+Graduate+|+Deep+Learning+Enthusiast;Building+ML+and+DL+Pipelines;Exploring+Transformers+and+NLP;Always+Learning+and+Improving" alt="Typing SVG" />
+</p>
+
+---
+
+### About Me
+
+I’m a **Data Science postgraduate** passionate about leveraging **Machine Learning and Deep Learning** to solve complex real-world problems.  
+Currently exploring **Transformers, NLP, RAG architectures**, and **fine-tuning (LoRA, QLoRA)**.  
+I enjoy building **end-to-end AI systems** and developing **efficient ML pipelines** using modular, production-ready code.
+
+My goal is to **develop impactful AI-driven solutions** and contribute to projects that advance intelligent automation and decision-making.
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanthcs4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumanthcs4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+**Languages & Frameworks**  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,streamlit" height="45" />
+
+**Data & Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy" height="45" />
+
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,vscode" height="45" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanthcs4&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanthcs4&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumanthcs4&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
-<div align="left">
-  <a href="www.linkedin.com/in/sumanthcs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+919591385942" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [Bee Health Classification](https://github.com/Sumanthcs4/bee-health-classification) | CNN and Transfer Learning model for detecting bee infections | PyTorch, MLflow, Docker |
+| [Crop Yield Prediction](https://github.com/Sumanthcs4/crop-yield-prediction) | End-to-end ML pipeline with FastAPI and MongoDB | FastAPI, MLflow, AWS |
+| [Phishing Detection](https://github.com/Sumanthcs4/phishing-detection-ml) | ML-based web phishing URL classifier | Scikit-learn, Flask |
+
+More projects coming soon.
+
+---
+
+### Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sumanthcs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:ssumanth510@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://wa.me/+919591385942" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-plain.svg" height="40" />
   </a>
   <a href="https://www.instagram.com/____sumanth_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </div>
 
-###
+---
 
+### GitHub Activity Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sumanthcs4/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=Sumanthcs4&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
