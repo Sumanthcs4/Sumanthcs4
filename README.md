@@ -70,7 +70,7 @@ More projects coming soon.
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://wa.me/+919591385942" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" />
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
   </a>
   <a href="https://www.instagram.com/____sumanth_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
