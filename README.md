@@ -64,16 +64,16 @@ More projects coming soon.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sumanthcs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="mailto:ssumanth510@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://wa.me/+919591385942" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
+  <a href="https://github.com/Sumanthcs4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
   <a href="https://www.instagram.com/____sumanth_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
 </div>
 
