@@ -51,9 +51,9 @@ My goal is to **develop impactful AI-driven solutions** and contribute to projec
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [Bee Health Classification](https://github.com/Sumanthcs4/bee-health-classification) | CNN and Transfer Learning model for detecting bee infections | PyTorch, MLflow, Docker |
-| [Crop Yield Prediction](https://github.com/Sumanthcs4/crop-yield-prediction) | End-to-end ML pipeline with FastAPI and MongoDB | FastAPI, MLflow, AWS |
-| [Phishing Detection](https://github.com/Sumanthcs4/phishing-detection-ml) | ML-based web phishing URL classifier | Scikit-learn, Flask |
+| [Crop Yield Prediction](https://github.com/Sumanthcs4/crop-yield-prediction) | End-to-end ML pipeline with **FastAPI**, **MongoDB**, and **MLflow** for crop yield estimation | FastAPI, MLflow, Docker, Render |
+| [Diabetes Prediction](https://github.com/Sumanthcs4/Diabetes-Prediction) | Machine Learning model for predicting diabetes from health indicators with Flask deployment | Scikit-learn, Flask, Pandas |
+| [Phishing Detection](https://github.com/Sumanthcs4/NetworkSecurity) | URL-based phishing detection using ML, integrated with **CI/CD** and deployed on **AWS** | Scikit-learn, FastAPI, CI/CD, AWS |
 
 More projects coming soon.
 
@@ -68,8 +68,8 @@ More projects coming soon.
   <a href="mailto:ssumanth510@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://wa.me/+919591385942" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-plain.svg" height="40" />
+  <a href="https://wa.me/919591385942" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/____sumanth_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
