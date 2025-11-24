@@ -52,9 +52,9 @@ My goal is to **develop impactful AI-driven solutions** and contribute to projec
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | [Medical QA using RAG](https://github.com/Sumanthcs4/medical-qa-rag) | A Retrieval-Augmented Generation (RAG) system that answers medical questions using Hugging Face Transformers and FAISS vector search. | LangChain, FAISS, Transformers, Streamlit |
+| [RAG Evaluation Suite](https://github.com/Sumanthcs4/RAG-Comparator) | A Streamlit dashboard comparing Naive RAG, Re-RAG, and DQR-RAG with retrieval metrics, answer quality scoring, latency & cost evaluation. | RAG, Streamlit, FAISS, OpenAI GPT-4o-mini |
 | [Crop Yield Prediction](https://github.com/Sumanthcs4/crop-yield-prediction) | End-to-end ML pipeline with FastAPI and MongoDB | FastAPI, MLflow, Docker, Render |
 | [Diabetes Prediction](https://github.com/Sumanthcs4/Diabetes-Prediction) | ML pipeline for predicting diabetes using patient data | Scikit-learn, Flask, Pandas |
-| [Phishing Detection](https://github.com/Sumanthcs4/NetworkSecurity) | ML-based web phishing URL classifier | Scikit-learn, FastAPI, CI/CD, AWS |
 
 More projects coming soon.
 
